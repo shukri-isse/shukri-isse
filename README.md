@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Shukri 👋
+
+I'm a recent Computer Science graduate with a focus on Software Engineering & Data Systems. I am passionate about software development and problem-solving. Currently, I'm focused on learning front-end development with HTML, CSS, and JavaScript.
+
+🚀 What I'm working on:
+Building projects to strengthen my front-end skills
+Learning more about web development and exploring new frameworks
+
+🛠️ Skills:
+Languages: Python, JavaScript, HTML, CSS
+Tools: Git, GitHub, VS Code
+
+📚 Learning:
+Currently learning JavaScript (next step after mastering HTML and CSS)
+Exploring responsive design and UI/UX principles
+
+🔗 Connect with me:
+LinkedIn: https://www.linkedin.com/in/shukri-isse/
+<!--Personal Website/Portfolio -->
 
 <!--
 **shukri-isse/shukri-isse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
