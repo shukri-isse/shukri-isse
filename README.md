@@ -4,6 +4,7 @@ I'm a recent Computer Science graduate with a focus on Software Engineering & Da
 
 ### 🚀 What I'm working on:
 Building projects to strengthen my front-end skills
+
 Learning more about web development and exploring new frameworks
 
 ### 🛠️ Skills:
