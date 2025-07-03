@@ -11,8 +11,8 @@ Languages: Python, JavaScript, HTML, CSS
 Tools: Git, GitHub, VS Code
 
 ### 📚 Learning:
-Currently learning JavaScript (next step after mastering HTML and CSS)
-Exploring responsive design and UI/UX principles
+Currently learning React
+Building Front end Applications using JavaScript
 
 ### 🔗 Connect with me:
 
