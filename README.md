@@ -9,6 +9,7 @@ Learning more about web development and exploring new frameworks
 
 ### 🛠️ Skills:
 Languages: Python, JavaScript, HTML, CSS
+
 Tools: Git, GitHub, VS Code
 
 ### 📚 Learning:
