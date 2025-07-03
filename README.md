@@ -13,7 +13,7 @@ Tools: Git, GitHub, VS Code
 ### 📚 Learning:
 Currently learning React
 
-Building Front end Applications using JavaScript
+Building Frontend Applications using JavaScript
 
 ### 🔗 Connect with me:
 
